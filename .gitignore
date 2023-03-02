@@ -54,7 +54,11 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-
+/公共文档/Window_0
+/公共文档/Window_1
+/公共文档/Window_2
+/公共文档/Window_3
+/公共文档/打包测试
 # Crashlytics generated file
 crashlytics-build.properties
 
